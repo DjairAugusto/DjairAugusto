@@ -25,5 +25,4 @@
 &nbsp;
 
 # Spotify Data
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i&unique=true)
