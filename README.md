@@ -1,7 +1,7 @@
 ### ⚡Oi! Sou o Djair Augusto atualmente sou estudante de Engenharia de Software na PUC Minas - Coração Eucarístico
 #### 📍Tenho interesse principalmente na área de Front/Back-End e banco de dados. 
 
-![Djair GitHub stats](https://github-readme-stats.vercel.app/api?username=DjairAugusto&show_icons=true&theme=ayu-mirage)
+[![Djair's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjairAugusto)](https://github.com/DjairAugusto/github-readme-stats)
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DjairAugusto&theme=ayu-mirage)
 
 
