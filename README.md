@@ -1,5 +1,6 @@
 
-
+<img align="center" alt="Header" src="https://github.com/DjairAugusto/DjairAugusto/blob/main/Footer.png?raw=true
+"/>
 ### ⚡Oi! Sou o Djair Augusto atualmente sou estudante de Engenharia de Software na PUC Minas - Coração Eucarístico
 #### 📍Tenho interesse principalmente na área de Front/Back-End e banco de dados. 
 
