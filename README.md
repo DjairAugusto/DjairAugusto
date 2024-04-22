@@ -26,3 +26,4 @@
 
 # Spotify Data
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i&unique=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h441mb4ku67lsi00jyqcgd88i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
