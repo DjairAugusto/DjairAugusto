@@ -66,11 +66,11 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Djair Augusto](https://github-readme-stats.vercel.app/api?username=DjairAugusto&show_icons=true&theme=dracula)
+![Estatísticas do GitHub de Djair Augusto](https://github-readme-stats.vercel.app/api?username=DjairAugusto&show_icons=true&theme=dark)
 
 ## 🏅 Conquistas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjairAugusto&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjairAugusto&layout=compact&theme=dark)
 
 ---
 
