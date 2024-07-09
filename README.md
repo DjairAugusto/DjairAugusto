@@ -62,7 +62,7 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 ## 🎵 Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/h441mb4ku67lsi00jyqcgd88i)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i)](https://github.com/JamesCastagnetto/spotify-recently-played-readme)
 
 ## 📈 Estatísticas do GitHub
 
