@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou Djair Augusto, desenvolvedor apaixonado por tecnolo
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de [Seu Curso] na [Sua Universidade]
+- 🎓 Estudante de Engenharia de Software na Puc-Minas.
 - 💻 Desenvolvedor Web Full Stack
 - 🛠️ Amante de novas tecnologias e metodologias ágeis
 - 🎯 Sempre em busca de novos desafios e aprendizados
@@ -57,7 +57,7 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 ## 📫 Contato
 
-- Email: [djairaugusto@example.com](mailto:djairaugusto@example.com)
+- Email: [djairaugusto08@gmail.com](mailto:djairaugusto08@gmail.com)
 - LinkedIn: [Djair Augusto](https://www.linkedin.com/in/djairaugusto)
 
 ## 🎵 Spotify
