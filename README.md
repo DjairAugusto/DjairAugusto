@@ -62,7 +62,7 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 ## 🎵 Spotify
 
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i)](https://github.com/JamesCastagnetto/spotify-recently-played-readme)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i&unique=true)
 
 ## 📈 Estatísticas do GitHub
 
