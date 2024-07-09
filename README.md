@@ -74,5 +74,5 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 ---
 
-Fique à vontade para explorar meus repositórios e contribuir com sugestões, correções ou novas ideias. Vamos colaborar e aprender juntos!
+Fique à vontade para explorar meus repositórios e contribuir com sugestões!
 
