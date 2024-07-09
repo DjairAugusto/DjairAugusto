@@ -1,4 +1,5 @@
 <img align="center" src="https://github.com/DjairAugusto/DjairAugusto/blob/main/HeaderImg.png?raw=true"/>
+
 # Djair Augusto 👨‍💻
 
 Bem-vindo ao meu GitHub! Sou Djair Augusto, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos, contribuições e experimentos no mundo da programação.
