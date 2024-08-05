@@ -45,10 +45,10 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 ### [Clever Routine](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010100-clever-routine)
 Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
 
-- <img src="https://img.shields.io/badge/-Calendário-532C9A?style=for-the-badge&logo=googlecalendar&logoColor=white" width="30px"> **Sistema de calendário**
-- <img src="https://img.shields.io/badge/-Pomodoro-532C9A?style=for-the-badge&logo=tomato&logoColor=white" width="30px"> **Método Pomodoro**
-- <img src="https://img.shields.io/badge/-Música-532C9A?style=for-the-badge&logo=spotify&logoColor=white" width="30px"> **Playlist musical**
-- <img src="https://img.shields.io/badge/-Conquistas-532C9A?style=for-the-badge&logo=trophy&logoColor=white" width="30px"> **Sistema de conquistas**
+- **Sistema de calendário**
+- **Método Pomodoro**
+- **Playlist musical**
+- **Sistema de conquistas**
 
 ### [HotelemC](https://github.com/DjairAugusto/HotelemC)
 Sistema de gerenciamento de hotel desenvolvido em C.
