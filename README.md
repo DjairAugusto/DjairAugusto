@@ -1,13 +1,11 @@
 
-<img align="center" src="https://github.com/DjairAugusto/DjairAugusto/blob/main/HeaderImg.png?raw=true"/>
-
-# Djair Augusto 👨‍💻
-
- Sou Djair Augusto, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos, contribuições e experimentos no mundo da programação.
-  - 🎓 Estudante de Engenharia de Software na PUC-Minas.
-  - 💻 Desenvolvedor Web Full Stack.
-  - 🛠️ Amante de novas tecnologias e metodologias ágeis.
-  - 🎯 Sempre em busca de novos desafios e aprendizados.
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/Hand%20coding-bro.png?raw=true" alt="Djair Augusto" width="150" style="margin-right: 20px;">
+    <div></div>
+        <p>Sou Djair Augusto, desenvolvedor apaixonado por tecnologia e inovação. No meu GitHub, você encontrará uma coleção dos meus projetos, contribuições e experimentos no mundo da programação.
+Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Full Stack, interessado em novas tecnologias e metodologias ágeis. Estou sempre em busca de novos desafios e aprendizados.</p>
+    </div>
+</div>
 
 
 ## 🛠️ Habilidades
