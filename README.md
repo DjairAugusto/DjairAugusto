@@ -46,7 +46,6 @@ Bem-vindo ao meu GitHub! Sou Djair Augusto, desenvolvedor apaixonado por tecnolo
 
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-05122A?style=for-the-badge)
 ![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-05122A?style=for-the-badge)
-![API Restful](https://img.shields.io/badge/-API_Restful-05122A?style=for-the-badge)
 
 ## 🌟 Projetos Destacados
 
