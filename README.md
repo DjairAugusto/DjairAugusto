@@ -10,52 +10,35 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 <br>
  Amo arte e processos criativos, meus hobbies são: jogar e pintura digital!</p>
 
-## 🛠️ Habilidades
+### 🛠️ Habilidades
 
-### **Linguagens de Programação:**
+#### **Linguagens de Programação:**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-7E57C2?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-7E57C2?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-C%23-7E57C2?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 
-### **Desenvolvimento Web:**
+#### **Desenvolvimento Web:**
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-7E57C2?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-7E57C2?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-7E57C2?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-7E57C2?style=for-the-badge&logo=javascript)
 
-### **Banco de Dados:**
+#### **Banco de Dados:**
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-7E57C2?style=for-the-badge&logo=mysql)
 
-### **Ferramentas e Plataformas:**
+#### **Ferramentas e Plataformas:**
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=for-the-badge&logo=adobe%20illustrator)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/-Git-7E57C2?style=for-the-badge&logo=git)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-7E57C2?style=for-the-badge&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-7E57C2?style=for-the-badge&logo=figma)
 
-### **Outras Habilidades:**
+#### **Outras Habilidades:**
 
-![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-05122A?style=for-the-badge)
-![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-05122A?style=for-the-badge)
-
-## 🌟 Projetos Destacados
-
-### [Clever Routine](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010100-clever-routine)
-Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
-- 📆 Sistema de calendário
-- ⏲️ Método Pomodoro
-- 🎵 Playlist musical
-- 🏆 Sistema de conquistas
-
-### [HotelemC](https://github.com/DjairAugusto/HotelemC)
-Sistema de gerenciamento de hotel desenvolvido em C.
-
-## 📫 Contato
-
-- Email: [djairaugusto08@gmail.com](mailto:djairaugusto08@gmail.com)
-- LinkedIn: [Djair Augusto](https://www.linkedin.com/in/djairaugusto)
+![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-7E57C2?style=for-the-badge)
+![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-7E57C2?style=for-the-badge)
 
 ## 🎵 Spotify
 
