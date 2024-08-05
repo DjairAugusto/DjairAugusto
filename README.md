@@ -1,3 +1,9 @@
+Vamos melhorar a organização e o visual do seu README. Vou aumentar os ícones e reorganizar as informações para ficarem mais claras e atraentes.
+
+Aqui está uma versão revisada:
+
+---
+
 <img align="center" src="https://github.com/DjairAugusto/DjairAugusto/blob/main/HeaderImg.png?raw=true"/>
 
 # Djair Augusto 👨‍💻
@@ -6,42 +12,41 @@ Bem-vindo ao meu GitHub! Sou Djair Augusto, desenvolvedor apaixonado por tecnolo
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de Engenharia de Software na Puc-Minas.
-- 💻 Desenvolvedor Web Full Stack
-- 🛠️ Amante de novas tecnologias e metodologias ágeis
-- 🎯 Sempre em busca de novos desafios e aprendizados
+- 🎓 Estudante de Engenharia de Software na PUC-Minas.
+- 💻 Desenvolvedor Web Full Stack.
+- 🛠️ Amante de novas tecnologias e metodologias ágeis.
+- 🎯 Sempre em busca de novos desafios e aprendizados.
 
 ## 🛠️ Habilidades
 
-**Linguagens de Programação:**
+### **Linguagens de Programação:**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 
-**Desenvolvimento Web:**
+### **Desenvolvimento Web:**
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
 
+### **Banco de Dados:**
 
-**Banco de Dados:**
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+### **Ferramentas e Plataformas:**
 
-**Ferramentas e Plataformas:**
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=for-the-badge&logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobe%20illustrator)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+### **Outras Habilidades:**
 
-**Outras Habilidades:**
-
-![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-05122A?style=flat)
-![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-05122A?style=flat)
-![API Restful](https://img.shields.io/badge/-API_Restful-05122A?style=flat)
+![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-05122A?style=for-the-badge)
+![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-05122A?style=for-the-badge)
+![API Restful](https://img.shields.io/badge/-API_Restful-05122A?style=for-the-badge)
 
 ## 🌟 Projetos Destacados
 
@@ -76,3 +81,6 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 Fique à vontade para explorar meus repositórios e contribuir com sugestões!
 
+---
+
+O que achou dessa versão? Se precisar de mais alguma alteração ou ajuste, me avise!
