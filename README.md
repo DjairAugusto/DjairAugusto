@@ -3,14 +3,12 @@
 
 # Djair Augusto 👨‍💻
 
-Bem-vindo ao meu GitHub! Sou Djair Augusto, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos, contribuições e experimentos no mundo da programação.
+ Sou Djair Augusto, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos, contribuições e experimentos no mundo da programação.
+  - 🎓 Estudante de Engenharia de Software na PUC-Minas.
+  - 💻 Desenvolvedor Web Full Stack.
+  - 🛠️ Amante de novas tecnologias e metodologias ágeis.
+  - 🎯 Sempre em busca de novos desafios e aprendizados.
 
-## 🚀 Sobre Mim
-
-- 🎓 Estudante de Engenharia de Software na PUC-Minas.
-- 💻 Desenvolvedor Web Full Stack.
-- 🛠️ Amante de novas tecnologias e metodologias ágeis.
-- 🎯 Sempre em busca de novos desafios e aprendizados.
 
 ## 🛠️ Habilidades
 
