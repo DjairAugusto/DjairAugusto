@@ -14,31 +14,32 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 
 #### **Linguagens de Programação:**
 
-![Python](https://img.shields.io/badge/-Python-7E57C2?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-7E57C2?style=for-the-badge&logo=C&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/-C%23-7E57C2?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-532C9A?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-532C9A?style=for-the-badge&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-532C9A?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 #### **Desenvolvimento Web:**
 
-![HTML](https://img.shields.io/badge/-HTML-7E57C2?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-7E57C2?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-7E57C2?style=for-the-badge&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-7E57C2?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-532C9A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-532C9A?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-532C9A?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-532C9A?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### **Banco de Dados:**
 
-![MySQL](https://img.shields.io/badge/-MySQL-7E57C2?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-532C9A?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Ferramentas e Plataformas:**
 
-![Git](https://img.shields.io/badge/-Git-7E57C2?style=for-the-badge&logo=git)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-7E57C2?style=for-the-badge&logo=adobe%20illustrator)
-![Figma](https://img.shields.io/badge/-Figma-7E57C2?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/-Git-532C9A?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-532C9A?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-532C9A?style=for-the-badge&logo=figma&logoColor=white)
 
 #### **Outras Habilidades:**
 
-![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-7E57C2?style=for-the-badge)
-![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-7E57C2?style=for-the-badge)
+![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-532C9A?style=for-the-badge&logoColor=white)
+![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
+
 
 ## 🎵 Spotify
 
