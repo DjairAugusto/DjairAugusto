@@ -42,7 +42,7 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 ---
 ### 🌟 Projetos Destacados
 
-### [Clever Routine](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010100-clever-routine)
+### [Clever Routine](https://github.com/DjairAugusto/CleverRoutine)
 Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
 
 - **Sistema de calendário**
