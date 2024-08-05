@@ -40,23 +40,22 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-532C9A?style=for-the-badge&logoColor=white)
 ![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
 
+## 🌟 Projetos Destacados
 
-## 🎵 Spotify
+### [Clever Routine](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010100-clever-routine)
+Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=h441mb4ku67lsi00jyqcgd88i&unique=true)
+- 📆 Sistema de calendário
+- ⏲️ Método Pomodoro
+- 🎵 Playlist musical
+- 🏆 Sistema de conquistas
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Djair Augusto](https://github-readme-stats.vercel.app/api?username=DjairAugusto&show_icons=true&theme=dark)
-
-## 🏅 Conquistas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjairAugusto&layout=compact&theme=dark)
-
----
-
-Fique à vontade para explorar meus repositórios e contribuir com sugestões!
+### [HotelemC](https://github.com/DjairAugusto/HotelemC)
+Sistema de gerenciamento de hotel desenvolvido em C.
 
 ---
 
-O que achou dessa versão? Se precisar de mais alguma alteração ou ajuste, me avise!
+## 📫 Contato
+
+- Email: [djairaugusto08@gmail.com](mailto:djairaugusto08@gmail.com)
+- LinkedIn: [Djair Augusto](https://www.linkedin.com/in/djairaugusto)
