@@ -40,16 +40,15 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-532C9A?style=for-the-badge&logoColor=white)
 ![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
 ---
-
 ### 🌟 Projetos Destacados
 
 ### [Clever Routine](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010100-clever-routine)
 Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
 
-<img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/calendar-icon.png?raw=true" width="20px"> Sistema de calendário
-<img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/pomodoro-icon.png?raw=true" width="20px"> Método Pomodoro
-<img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/music-icon.png?raw=true" width="20px"> Playlist musical
-<img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/trophy-icon.png?raw=true" width="20px"> Sistema de conquistas
+- <img src="https://img.shields.io/badge/-Calendário-532C9A?style=for-the-badge&logo=googlecalendar&logoColor=white" width="30px"> **Sistema de calendário**
+- <img src="https://img.shields.io/badge/-Pomodoro-532C9A?style=for-the-badge&logo=tomato&logoColor=white" width="30px"> **Método Pomodoro**
+- <img src="https://img.shields.io/badge/-Música-532C9A?style=for-the-badge&logo=spotify&logoColor=white" width="30px"> **Playlist musical**
+- <img src="https://img.shields.io/badge/-Conquistas-532C9A?style=for-the-badge&logo=trophy&logoColor=white" width="30px"> **Sistema de conquistas**
 
 ### [HotelemC](https://github.com/DjairAugusto/HotelemC)
 Sistema de gerenciamento de hotel desenvolvido em C.
@@ -60,3 +59,4 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 
 - Email: [djairaugusto08@gmail.com](mailto:djairaugusto08@gmail.com)
 - LinkedIn: [Djair Augusto](https://www.linkedin.com/in/djairaugusto)
+
