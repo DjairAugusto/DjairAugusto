@@ -1,8 +1,3 @@
-Vamos melhorar a organização e o visual do seu README. Vou aumentar os ícones e reorganizar as informações para ficarem mais claras e atraentes.
-
-Aqui está uma versão revisada:
-
----
 
 <img align="center" src="https://github.com/DjairAugusto/DjairAugusto/blob/main/HeaderImg.png?raw=true"/>
 
