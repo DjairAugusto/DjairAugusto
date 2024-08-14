@@ -15,7 +15,7 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 #### **Linguagens de Programação:**
 
 ![Python](https://img.shields.io/badge/-Python-532C9A?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-532C9A?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-532C9A?style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-532C9A?style=for-the-badge&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-532C9A?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
