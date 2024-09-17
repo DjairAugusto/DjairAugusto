@@ -23,7 +23,7 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 
 ![HTML](https://img.shields.io/badge/-HTML-532C9A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-532C9A?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-532C9A?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-532C9A?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-532C9A?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### **Banco de Dados:**
