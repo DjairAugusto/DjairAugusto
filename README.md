@@ -10,6 +10,20 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 <br>
  Amo arte e processos criativos, meus hobbies são: jogar e pintura digital!</p>
 
+
+### 🌟 Projetos Destacados
+
+### [Clever Routine](https://github.com/DjairAugusto/CleverRoutine)
+Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
+
+- **Sistema de calendário**
+- **Método Pomodoro**
+- **Playlist musical**
+- **Sistema de conquistas**
+
+### [HotelemC](https://github.com/DjairAugusto/HotelemC)
+Sistema de gerenciamento de hotel desenvolvido em C.
+
 ### 🛠️ Habilidades
 
 #### **Linguagens de Programação:**
@@ -40,20 +54,6 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
 
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-532C9A?style=for-the-badge&logoColor=white)
 ![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
----
-### 🌟 Projetos Destacados
-
-### [Clever Routine](https://github.com/DjairAugusto/CleverRoutine)
-Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
-
-- **Sistema de calendário**
-- **Método Pomodoro**
-- **Playlist musical**
-- **Sistema de conquistas**
-
-### [HotelemC](https://github.com/DjairAugusto/HotelemC)
-Sistema de gerenciamento de hotel desenvolvido em C.
-
 ---
 
 ## 📫 Contato
