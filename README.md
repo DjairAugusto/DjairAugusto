@@ -53,7 +53,7 @@ Sistema de gerenciamento de hotel desenvolvido em C.
 #### **Outras Habilidades:**
 
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-532C9A?style=for-the-badge&logoColor=white)
-![Design Responsivo](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
+![Design](https://img.shields.io/badge/-Design_Responsivo-532C9A?style=for-the-badge&logoColor=white)
 ---
 
 ## 📫 Contato
