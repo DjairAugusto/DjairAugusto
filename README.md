@@ -24,7 +24,7 @@ Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo 
 ### [HotelemC](https://github.com/DjairAugusto/HotelemC)
 Sistema de gerenciamento de hotel desenvolvido em C.
 
-### 🛠️ Habilidades
+###  Habilidades
 
 #### **Linguagens de Programação:**
 
