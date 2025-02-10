@@ -11,7 +11,7 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
  Amo arte e processos criativos, meus hobbies são: jogar e pintura digital!</p>
 
 
-### 🌟 Projetos Destacados
+### Projetos Destacados
 
 ### [Clever Routine](https://github.com/DjairAugusto/CleverRoutine)
 Ferramenta online desenvolvida para auxiliar os usuários a gerenciar seu tempo de estudo de forma eficiente e a evitar a procrastinação. 
