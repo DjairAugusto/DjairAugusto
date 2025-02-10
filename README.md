@@ -36,14 +36,8 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
+### [CIT](https://github.com/DjairAugusto/CIT)
+A aplicação CIT - Condomínio Inteligente é um software desenvolvido para otimizar a gestão de condomínios residenciais, promovendo uma comunicação eficiente entre a administração e os moradores. O sistema facilita a transparência nos processos administrativos, o uso das áreas comuns e a resolução de questões cotidianas, oferecendo uma interface simples e intuitiva. Além disso, busca automatizar tarefas que tradicionalmente demandam muito tempo, garantindo mais eficiência na gestão, organização e na comunicação interna do condomínio.
 
 ### [HotelemC](https://github.com/DjairAugusto/HotelemC)
 Sistema de gerenciamento de hotel desenvolvido em C.
