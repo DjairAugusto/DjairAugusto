@@ -36,42 +36,52 @@ Estudante de Engenharia de Software na PUC-Minas, atuo como desenvolvedor Web Fu
   </tr>
 </table>
 
-### [CIT](https://github.com/DjairAugusto/CIT)
-A aplicação CIT - Condomínio Inteligente é um software desenvolvido para otimizar a gestão de condomínios residenciais, promovendo uma comunicação eficiente entre a administração e os moradores. O sistema facilita a transparência nos processos administrativos, o uso das áreas comuns e a resolução de questões cotidianas, oferecendo uma interface simples e intuitiva. Além disso, busca automatizar tarefas que tradicionalmente demandam muito tempo, garantindo mais eficiência na gestão, organização e na comunicação interna do condomínio.
 
-### [HotelemC](https://github.com/DjairAugusto/HotelemC)
-Sistema de gerenciamento de hotel desenvolvido em C.
+<h3>CIT</h3>
 
-###  Habilidades
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/citlog?raw=true" width="8000">
+    </td>
+    <td style="padding-left: 20px;">
+      <p>A aplicação CIT - Condomínio Inteligente é um software desenvolvido para otimizar a gestão de condomínios residenciais, promovendo uma comunicação eficiente entre a administração e os moradores. O sistema facilita a transparência nos processos administrativos, o uso das áreas comuns e a resolução de questões cotidianas, oferecendo uma interface simples e intuitiva. Além disso, busca automatizar tarefas que tradicionalmente demandam muito tempo, garantindo mais eficiência na gestão, organização e na comunicação interna do condomínio.</p>
+          <p>
+        <a href="https://github.com/DjairAugusto/CIT">Repositório CIT</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### **Linguagens de Programação:**
 
-![Python](https://img.shields.io/badge/-Python-532C9A?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-532C9A?style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/-C-532C9A?style=for-the-badge&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-532C9A?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
-#### **Desenvolvimento Web:**
 
-![HTML](https://img.shields.io/badge/-HTML-532C9A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-532C9A?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-532C9A?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-532C9A?style=for-the-badge&logo=javascript&logoColor=white)
 
-#### **Banco de Dados:**
 
-![MySQL](https://img.shields.io/badge/-MySQL-532C9A?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### **Ferramentas e Plataformas:**
+<h3>Hotel em C</h3>
 
-![Git](https://img.shields.io/badge/-Git-532C9A?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-532C9A?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-532C9A?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/DjairAugusto/DjairAugusto/blob/main/C.png?raw=true" width="800">
+    </td>
+    <td style="padding-left: 20px;">
+      <p>Este projeto é um sistema de gerenciamento de hotel escrito em C. Ele permite o cadastro e gerenciamento de clientes, funcionários, quartos e estadias, incluindo a finalização de estadias e pesquisas por clientes e funcionários.</p>
+      <ul>
+           <li><b>Cadastrar Cliente e Funcionário</b></li>  
+          <li><b>Cadastrar Quarto e Estadia</b></li>  
+          <li><b>Finalizar Estadia</b></li>  
+          <li><b>Pesquisar Cliente ou Funcionário</b></li>  
+          <li><b>Mostrar Estadias de um Cliente</b></li>  
+      </ul>
+      <p>
+        <a href="https://github.com/DjairAugusto/Hotelem">Repositório Hotel em C</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### **Outras Habilidades:**
-
-![POO](https://img.shields.io/badge/-POO-532C9A?style=for-the-badge&logoColor=white)
-![Design](https://img.shields.io/badge/-Design-532C9A?style=for-the-badge&logoColor=white)
 ---
 
 ## 📫 Contato
